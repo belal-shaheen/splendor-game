@@ -1,3 +1,3 @@
 # splendor-game
 
-The board game splendor written in more than 1900 lines of python code!
+The board game splendor implemnted with more than 1900 lines of python code!
